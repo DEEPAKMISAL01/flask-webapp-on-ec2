@@ -47,6 +47,7 @@ Gunicorn (Python WSGI Server)
    |
    ↓
 Flask Application (app.py)
+
 ## 📸 Screenshot
 
 ![Flask App Screenshot](assets/screenshot.png)
