@@ -50,7 +50,7 @@ Flask Application (app.py)
 
 ## 📸 Screenshot
 
-![Flask App Screenshot](assets/screenshot.png)
+![Screenshot](assets/screenshot.png)
 
 
 ⚙️ How to Run (on EC2)
