@@ -48,10 +48,6 @@ Gunicorn (Python WSGI Server)
    ↓
 Flask Application (app.py)
 
-## 📸 Screenshot
-
-![Screenshot](assets/screenshot.png)
-
 
 ⚙️ How to Run (on EC2)
 1️⃣ Launch EC2 Instance
